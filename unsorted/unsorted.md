@@ -11,3 +11,5 @@
 ## [keychain.scad](keychain.scad)
 
 ![keychain](screenshots/keychain.png)
+
+## FIXME: OpenSCAD logo

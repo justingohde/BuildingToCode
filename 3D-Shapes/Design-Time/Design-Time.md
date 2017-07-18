@@ -2,24 +2,24 @@
 
 ## [mouse.scad](mouse.scad)
 
-![mouse](images/mouse.png)
+![mouse](screenshots/mouse.png)
 
 ## [yo-yo.scad](yo-yo.scad)
 
-![yo-yo](images/yo-yo.png)
+![yo-yo](screenshots/yo-yo.png)
 
 ## [spinner.scad](spinner.scad)
 
-![spinner](images/spinner.png)
+![spinner](screenshots/spinner.png)
 
 ## [ice-cream-cone.scad](ice-cream-cone.scad)
 
-![ice-cream-cone](images/ice-cream-cone.png)
+![ice-cream-cone](screenshots/ice-cream-cone.png)
 
 ## [halfpipe.scad](halfpipe.scad)
 
-![halfpipe](images/halfpipe.png)
+![halfpipe](screenshots/halfpipe.png)
 
 ## [epcot.scad](epcot.scad)
 
-![epcot](images/epcot.png)
+![epcot](screenshots/epcot.png)

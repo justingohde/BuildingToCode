@@ -2,13 +2,13 @@
 
 ## [Calibration-Pyramid.scad](Calibration-Pyramid.scad)
 
-![Calibration-Pyramid](images/Calibration-Pyramid.png)
+![Calibration-Pyramid](screenschots/Calibration-Pyramid.png)
 
 
 ## [Smiley-Face.scad](Smiley-Face.scad)
 
-![Smiley-Face](images/Smiley-Face.png)
+![Smiley-Face](screenschots/Smiley-Face.png)
 
 ## [Hole-and-Pin-Test.scad](Hole-and-Pin-Test.scad)
 
-![Hole-and-Pin-Test](images/Hole-and-Pin-Test.png)
+![Hole-and-Pin-Test](screenschots/Hole-and-Pin-Test.png)

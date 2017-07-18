@@ -4,22 +4,22 @@
 
 ![Mouse](screenshots/Mouse.png)
 
-## [yo-yo.scad](yo-yo.scad)
+## [Yo-Yo.scad](Yo-Yo.scad)
 
-![yo-yo](screenshots/yo-yo.png)
+![Yo-Yo](screenshots/Yo-Yo.png)
 
-## [spinner.scad](spinner.scad)
+## [Spinner.scad](Spinner.scad)
 
-![spinner](screenshots/spinner.png)
+![Spinner](screenshots/Spinner.png)
 
-## [ice-cream-cone.scad](ice-cream-cone.scad)
+## [Ice-Cream-Cone.scad](Ice-Cream-Cone.scad)
 
-![ice-cream-cone](screenshots/ice-cream-cone.png)
+![Ice-Cream-Cone](screenshots/Ice-Cream-Cone.png)
 
-## [halfpipe.scad](halfpipe.scad)
+## [Halfpipe.scad](Halfpipe.scad)
 
-![halfpipe](screenshots/halfpipe.png)
+![Halfpipe](screenshots/Halfpipe.png)
 
-## [epcot.scad](epcot.scad)
+## [Epcot.scad](Epcot.scad)
 
-![epcot](screenshots/epcot.png)
+![Epcot](screenshots/Epcot.png)

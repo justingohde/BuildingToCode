@@ -1,8 +1,8 @@
 # Design Time
 
-## [mouse.scad](mouse.scad)
+## [Mouse.scad](Mouse.scad)
 
-![mouse](screenshots/mouse.png)
+![Mouse](screenshots/Mouse.png)
 
 ## [yo-yo.scad](yo-yo.scad)
 

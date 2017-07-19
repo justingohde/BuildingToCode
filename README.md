@@ -6,13 +6,13 @@
 ### [Transforming Shapes](Transforming-Shapes/Transforming-Shapes.md)
 ### [2D Shapes](2D-Shapes/2D-Shapes.md)
 ## [Intermediate OpenSCAD]
-### [Loops] 
-### [Decisions]
-### [Modules]
+### [Loops](Loops/Loops.md)
+### [Decisions](Decisions/Decisions.md)
+### [Modules](Modules/Modules.md)
 ## [Design and Engineering with OpenSCAD]
-### [ Modular Design ] 
-### [ Reverse Engineering ]
-### [ Design Thinking ]
+### [ Modular Design ](Modular-Design/Modular-Design.md)
+### [ Reverse Engineering ](Reverse-Engineering/Reverse-Engineering.md)
+### [ Design Thinking ](Design-Thinking/Design-Thinking.md)
 
 ## [Design Time](Design-Time/Design-Time.md)
 

@@ -9,6 +9,7 @@
 ### Rotationg Shapes with rotate
 ### Reflecting Shapes with mirror
 ### Scaling Shapes with resize
+### Connecting Shapes with hull
 
 ## Combining Multiple Transformations
 ### Order Matters
@@ -18,7 +19,6 @@
 ### Use // and /* ... */ to Comment your Code
 ### Change the Color of Shapes with Color
 #### Decimal and Hexadecimal Representations of Colors
-### Using Identifiers
 
 
 ## [Design Time](Design-Time/Design-Time.md)

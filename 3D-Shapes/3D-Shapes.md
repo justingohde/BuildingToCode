@@ -21,6 +21,7 @@
 #### Creating a Ghost Image of a Subtracted Shape with #
 ### Carve-Out Overlapping Shapes with intersection
 ### Constructive Solid Geometry and Decomposition
+## Getting Ready for 3D Printing
 
 ## [Design Time](Design-Time/Design-Time.md)
 

@@ -2,7 +2,7 @@
 
 ### [Introduction]
 ## [OpenSCAD Basics]
-### [3D Shapes](3D-Shapes/3D-Shapes.md)
+### [3D Shapes - 21 pages](3D-Shapes/3D-Shapes.md)
 ### [Transforming Shapes](Transforming-Shapes/Transforming-Shapes.md)
 ### [2D Shapes](2D-Shapes/2D-Shapes.md)
 ## [Intermediate OpenSCAD]
@@ -10,9 +10,9 @@
 ### [Decisions]
 ### [Modules]
 ## [Design and Engineering with OpenSCAD]
-### [ TBD ] 
-### [ TBD ]
-### [ TBD ]
+### [ Modular Design ] 
+### [ Reverse Engineering ]
+### [ Design Thinking ]
 
 ## [Design Time](Design-Time/Design-Time.md)
 

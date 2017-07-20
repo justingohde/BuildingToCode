@@ -13,8 +13,11 @@
 
 ## Going from 2D to 3D
 ### Extruding Shapes with linear_extrude and rotate_extrude
+#### linear_extrude
+#### linear_extrude with a twist
+#### linear_extrude with a scale
+#### rotate_extrude
 ### Data-driven Shapes with heatmap
-### Constructive Solid Geometry and Decomposition
 
 ## [Design Time](Design-Time/Design-Time.md)
 

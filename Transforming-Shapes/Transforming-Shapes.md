@@ -9,13 +9,15 @@
 ### Rotationg Shapes with rotate
 ### Reflecting Shapes with mirror
 ### Scaling Shapes with resize
-### Connecting Shapes with hull
 
-## Combining Multiple Transformations
-### Order Matters
+
+## More Ways to Combine  3D Shapes
+### Combining Shapes with hull
+### Combining Shapes with minikowski
 
 
 ## Debugging Tips for Transforming Shapes
+### Order Matters 
 ### Use // and /* ... */ to Comment your Code
 ### Change the Color of Shapes with Color
 #### Decimal and Hexadecimal Representations of Colors

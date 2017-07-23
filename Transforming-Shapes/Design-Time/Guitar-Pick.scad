@@ -1,8 +1,8 @@
-//Transforming Shapes - Design Time: Guitar Pick
+// Transforming Shapes - Design Time: Guitar Pick
 
-$fn =50;
+$fn = 50;
 
-hull(){
+hull() {
     cylinder(h=1, r=1);
-    translate([7,0,0]) cylinder(h=1, r=5);
+    translate([7, 0, 0]) cylinder(h=1, r=5);
 }

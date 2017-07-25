@@ -6,5 +6,5 @@ translate([20, 0, 0]) {
 
 difference() {
     translate([0, 2.5, 0]) cube([120, 15, 3]);
-    translate([10, 10, -1]) cylinder(h=20, d=10);
+    translate([10, 10, -1]) cylinder(h=20, r1=5, r2=5);
 }

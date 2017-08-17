@@ -1,6 +1,6 @@
 # [Transforming Shapes](Transforming-Shapes.odt)
 
-## More about the OpenSCAD Environment Basics
+## More about the OpenSCAD Environment
 ### Views
 ### Axes
 

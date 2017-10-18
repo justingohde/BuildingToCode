@@ -1,4 +1,4 @@
-difference(){
-   sphere(5);
-   cube([10,10,10]);
+difference() {
+    sphere(5);
+    cube([10, 10, 10]);
 }

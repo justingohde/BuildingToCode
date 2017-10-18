@@ -1,5 +1,5 @@
-//3D Shapes- Design Time: Yo Yo
+// 3D Shapes- Design Time: Yo Yo
 
-cylinder(10, 0, 10);
-cylinder(10, 10, 0);
+cylinder(h=10, r1=0, r2=10);
+cylinder(h=10, r1=10, r2=0);
 

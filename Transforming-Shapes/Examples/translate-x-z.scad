@@ -1,1 +1,1 @@
-translate([-10,0,10])sphere(4);
+translate([-10, 0, 10]) sphere(4);

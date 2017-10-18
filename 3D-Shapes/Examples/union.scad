@@ -1,4 +1,4 @@
-union(){
-    cube([10,10,10]);
+union() {
+    cube([10, 10, 10]);
     sphere(5);
 }

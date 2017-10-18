@@ -1,18 +1,18 @@
 # BuildingToCode
 
-### [Introduction]
-## [OpenSCAD Basics]
+## Introduction
+## OpenSCAD Basics
 ### [3D Shapes - 19 pages](3D-Shapes/3D-Shapes.md)
 ### [Transforming Shapes](Transforming-Shapes/Transforming-Shapes.md)
 ### [2D Shapes](2D-Shapes/2D-Shapes.md)
-## [Intermediate OpenSCAD]
+## Intermediate OpenSCAD
 ### [Loops](Loops/Loops.md)
 ### [Decisions](Decisions/Decisions.md)
 ### [Modules](Modules/Modules.md)
-## [Design and Engineering with OpenSCAD]
-### [ Modular Design ](Modular-Design/Modular-Design.md)
-### [ Reverse Engineering ](Reverse-Engineering/Reverse-Engineering.md)
-### [ Design Thinking ](Design-Thinking/Design-Thinking.md)
+## Design and Engineering with OpenSCAD
+### [Modular Design](Modular-Design/Modular-Design.md)
+### [Reverse Engineering](Reverse-Engineering/Reverse-Engineering.md)
+### [Design Thinking](Design-Thinking/Design-Thinking.md)
 
 ## [Design Time](Design-Time/Design-Time.md)
 
@@ -20,8 +20,10 @@
 
 
 ## Outstanding Questions
-Questions
-How do I indicate one word of code embedded within the body text should be formatted as code?
-Can we put the pictures next to the code instead of beneath the code? Perhaps with an invisible table? It would save a lot of space. Related to this, what is the recommended smallest picture size?
-The illustration numbering schema is problematic since we have so many pictures. If we change the ordering at all every label after the change will be incorrect. 
-Reset view doesn't include minor tick marks. All of the images in the first three chapters should include the minor tick marks to help readers visualize exact positioning on the 3D axis.
+
+**Questions:**
+
+* How do I indicate one word of code embedded within the body text should be formatted as code?
+* Can we put the pictures next to the code instead of beneath the code? Perhaps with an invisible table? It would save a lot of space. Related to this, what is the recommended smallest picture size?
+* The illustration numbering schema is problematic since we have so many pictures. If we change the ordering at all every label after the change will be incorrect. 
+* Reset view doesn't include minor tick marks. All of the images in the first three chapters should include the minor tick marks to help readers visualize exact positioning on the 3D axis.
